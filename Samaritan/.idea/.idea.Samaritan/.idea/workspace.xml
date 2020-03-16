@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="ENABLE_SUITABLE_CONFIGURATION_CACHING" value="true" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+    <option name="showStatusBarWidget" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cffa2a56-34a1-4414-a2e6-8cc44de4eb1b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Samaritan/Abstractions/Champion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Samaritan/Utilities/Extensions/Spell.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Samaritan/Utilities/Extensions/HitChance.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Samaritan/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Samaritan/Utilities/Extensions/Menu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Samaritan/Static/Script.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Samaritan/Interfaces/IScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/59982D0D-CCF8-4552-BF05-621623E86364/3c/6e0c99b5/HitChance.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Samaritan/Properties/AssemblyInfo.cs" />
+        <option value="$PROJECT_DIR$/Samaritan/Interfaces/IPrediction.cs" />
+        <option value="$PROJECT_DIR$/Samaritan/Prediction/Extensions.cs" />
+        <option value="$PROJECT_DIR$/Samaritan/Utilities/Path.cs" />
+        <option value="$PROJECT_DIR$/Samaritan/Utilities/PathInfo.cs" />
+        <option value="$PROJECT_DIR$/Samaritan/Prediction/Movement.cs" />
+        <option value="$PROJECT_DIR$/Samaritan/Enums/SpellType.cs" />
+        <option value="$PROJECT_DIR$/Samaritan/Interfaces/IAssembly.cs" />
+        <option value="$PROJECT_DIR$/Samaritan/Abstractions/Script.cs" />
+        <option value="$PROJECT_DIR$/Samaritan/Interfaces/IScript.cs" />
+        <option value="$PROJECT_DIR$/Samaritan/Objects/SpellData.cs" />
+        <option value="$PROJECT_DIR$/Samaritan/Utilities/Extensions/HitChance.cs" />
+        <option value="$PROJECT_DIR$/Samaritan/Utilities/Extensions/Spell.cs" />
+        <option value="$PROJECT_DIR$/Samaritan/Static/Script.cs" />
+        <option value="$PROJECT_DIR$/Samaritan/Abstractions/Champion.cs" />
+        <option value="$PROJECT_DIR$/Samaritan/Utilities/Extensions/Menu.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YwpXY15Bh5KQ2ouox7YzOOf3BV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cffa2a56-34a1-4414-a2e6-8cc44de4eb1b" name="Default Changelist" comment="" />
+      <created>1583863550681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583863550681</updated>
+      <workItem from="1583863551875" duration="7104000" />
+      <workItem from="1583943175034" duration="421000" />
+      <workItem from="1584026052920" duration="110000" />
+      <workItem from="1584282298215" duration="10065000" />
+      <workItem from="1584292944478" duration="1566000" />
+      <workItem from="1584300342729" duration="5699000" />
+      <workItem from="1584369655208" duration="5759000" />
+      <workItem from="1584377474588" duration="3890000" />
+      <workItem from="1584381653620" duration="3312000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="564" y="210" key="#Code_Cleanup_Options" timestamp="1584285610323">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="564" y="210" key="#Code_Cleanup_Options/0.0.1920.1040@0.0.1920.1040" timestamp="1584285610323" />
+    <state x="1194" y="386" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1584385055150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1194" y="386" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.0.1920.1040@0.0.1920.1040" timestamp="1584385055150" />
+    <state x="491" y="163" key="SettingsEditor" timestamp="1584285601028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="491" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584285601028" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1584373155830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584373155830" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1584285596323">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584285596323" />
+  </component>
+</project>
