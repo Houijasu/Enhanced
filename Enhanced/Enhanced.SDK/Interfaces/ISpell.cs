@@ -1,4 +1,4 @@
-﻿namespace RapidAIO.Interfaces
+﻿namespace SDK.Interfaces
 {
    using EnsoulSharp.SDK;
 
